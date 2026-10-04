@@ -1,0 +1,10 @@
+Destination="Adama"
+print("Destination:",Destination)
+Distance=100
+print("Distance:",Distance,"km")
+Speed=50
+print("Speed:",Speed,"km/h")
+Time=Distance/Speed
+print(Time,"hours")
+min=Time*60
+print(min,"min")
